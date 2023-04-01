@@ -1,0 +1,288 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Work Sans', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+header{
+    background-color: rgb(56, 3, 141);
+    color: white;
+    padding: 30px;
+    /* text-align: center; */
+    /* position: absolute; */
+    width: 100%;
+    /* margin-top: -364px; */
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+    display: grid;
+    height: auto;
+    grid-template-columns: repeat(5,250px);
+    grid-auto-rows: minmax(355px, auto);
+    grid-gap: 33px;
+    grid-row-gap: 30px;
+    margin-top: 500px;
+}
+
+p{
+    text-align: center;
+    margin-top: 250px;
+    font-size: 1.5rem;
+}
+
+.kartica1{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica2{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica3{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica4{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica5{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica6{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica7{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica8{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica9{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica10{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica11{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica12{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica13{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica14{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica15{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica16{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica17{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica18{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica19{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica20{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica21{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica22{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica23{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica24{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+.kartica25{
+    border-radius: 15px;
+    background-color: rgba(119, 87, 237, 0.194);
+}
+
+
+
+
+
+footer{
+    background-color: rgb(56, 3, 141);
+    padding: 40px;
+    color: aliceblue;
+    margin-top: 70px;
+}
+
+
+
+
+
+
+
+@media (min-width:501px)and (max-width:678px){
+    header{
+        background-color: rgb(56, 3, 141);
+        color: white;
+        padding: 30px;
+        width: 100%;
+    }
+    
+    .container{
+        width: 90%;
+        margin: auto;
+        display: grid;
+        height: auto;
+        grid-template-columns: repeat(3,150px);
+        grid-auto-rows: minmax(255px, auto);
+        grid-gap: 23px;
+        grid-row-gap: 20px;
+        margin-top: 50px;
+    }
+    
+    p{
+        text-align: center;
+        margin-top: 150px;
+        font-size: 1rem;
+    }
+    
+    .kartica1{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica2{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica3{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica4{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica5{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica6{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica7{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica8{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica9{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica10{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica11{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica12{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica13{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica14{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica15{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica16{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica17{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica18{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica19{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica20{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica21{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica22{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica23{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica24{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    .kartica25{
+        border-radius: 15px;
+        background-color: rgba(119, 87, 237, 0.194);
+    }
+    
+    footer{
+        background-color: rgb(56, 3, 141);
+        padding: 30px;
+        color: aliceblue;
+        margin-top: 60px;
+    }
+}
